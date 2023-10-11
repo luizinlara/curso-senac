@@ -1,2 +1,3 @@
-# curso-senac
-Repositório destinado a curso de desenvolvimento back-end
+# 📚 Curso Senac
+
+*Repositório destinado a curso de desenvolvimento back-end*
